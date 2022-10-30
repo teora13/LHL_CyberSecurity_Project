@@ -1,7 +1,7 @@
 # LHL_CyberSecurity_Project
 :open_file_folder: Investigation of a cyber security data breach and post-incident analysis.
 
-Final project (pdf file) for a diploma in Cybersecurity from Lighthouse Labs. <br />
+Final project (see [pdf file](https://github.com/teora13/LHL_CyberSecurity_Project/blob/main/PREMIUM%20HOUSE%20LIGHTS%2C%20INC.pptx.pdf)) for a diploma in Cybersecurity from Lighthouse Labs. <br />
 This project consists of a scenario where a company has received a potential threat and investigate the cyber security incident. 
 
 Technical analysis with elements included below:
