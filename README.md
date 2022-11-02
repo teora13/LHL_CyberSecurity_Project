@@ -19,3 +19,4 @@ Technical analysis with elements included below:
 - Post-incident recommendations with NIST Domain<br />
 - Network upgrade recommendation<br />
 
+<img src="https://github.com/teora13/LHL_CyberSecurity_Project/blob/main/images/04_ipinfo.jpg" width="800"> 
